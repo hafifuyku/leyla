@@ -1,2 +1,2 @@
 # leyla
-Leyla is learning to make websites
+is learning to make websites
